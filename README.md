@@ -10,9 +10,9 @@ Multiple regression models are trained and evaluated to determine which model pe
 
 2. Dataset
 The dataset contains information about people's:
-* Gender
-* Height
-* Weight
+  * Gender
+  * Height
+  * Weight
 The dataset contains 10,000 observations.
 
 3. Correlation Analysis
